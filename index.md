@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 # Joseph Lee's First CS193 Homework
 
 - The instructors are fun and informative!
